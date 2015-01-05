@@ -1,9 +1,8 @@
 #######################################################################
 
-#ALOOH MQTT SAMPLE APP
+# ALOOH MQTT SAMPLE APP
 
 
-06/01/2015 Ver.0.9
 
 
 본 SAMPLE APP은 ALOOH DEVICE를 이용하여 ALOOH MQTT 서버와 MQTT 메시지를 
