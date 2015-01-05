@@ -13,8 +13,8 @@ APP 입니다.
 SAMPLE APP은 Android 단말에서 동작하는 App과 ALOOH DEVICE에서 동작하는 
 Node.js로 각각의 폴더로 구분되어 있습니다.
 
->> /Android
->>/Node_JS
+    /Android
+    /Node_JS
 
 
 #######################################################################
